@@ -1,1 +1,1 @@
-# Everything about Spring JDBC from Beginner to Advance (TCO)
+# Everything about Spring Boot JDBC from Beginner to Advance (TCO)
